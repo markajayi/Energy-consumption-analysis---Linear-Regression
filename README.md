@@ -1,5 +1,7 @@
 # 🏠 Energy Consumption Dataset: Linear Regression
 
+![Energy consumption](visuals/Powernetwork.jpg)
+
 
 ## 🎯 Project Title
 
